@@ -11,8 +11,8 @@ Este projeto nasceu com o objetivo de ajudar o amigo Osni Cruz a entender os con
 
 Como resultado de vários audios de Whatsapp com explicações de conceitos de orientação à objetos 3 grandes contextos foram criados e representados em diretórios que possuem implementação de código na [linguagem Ruby](https://www.ruby-lang.org/pt/) com explicações.
 
-1. **Detran**: contexto onde existe a necessidade de controlar os carros e seus motoristas.
-2. **Concessionaria (*em breve*)**: contexto onde existe a necessidade de construir os carros a partir de suas peças.
-3. **Ecommerce (*em breve*)**: contexto onde existe a necessidade de vender produtos de um comércio eletrônico
+1. [Detran](app/detran/README.md): contexto onde existe a necessidade de controlar os carros e seus motoristas.
+2. [Concessionaria](app/concessionaria/README.md) (*em breve*): contexto onde existe a necessidade de construir os carros a partir de suas peças.
+3. [Ecommerce](app/ecommerce/README.md) (*em breve*): contexto onde existe a necessidade de vender produtos de um comércio eletrônico
 
-Dentro de cada diretório (contexto) existe um arquivo *README.md* com informações sobre a leitura do código implementado bem como links que podem auxiliar no estudo.
+Dentro de cada diretório (contexto) existe um arquivo README.md com informações sobre a leitura do código implementado bem como links que podem auxiliar no estudo.
